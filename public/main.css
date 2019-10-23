@@ -1,0 +1,65 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:100vh;
+    margin-top:-70px;
+
+}
+
+header {
+    min-height: 400px;
+    min-width: 400px;
+    width: 80%;
+    background: #fff;
+    padding: 40px 20px;
+    border-radius:5px;
+    box-shadow: 5px 55px 50px -20px #b6b6b6;
+}
+
+.nav-links {
+    padding:0;
+    list-style: none;
+    display:flex;
+
+  /* EXTRA SPICE ON NAVBAR */ 
+  height: 46px;
+  align-items: center;
+  padding: 0 10px;
+  border: 1px solid rgba(238,238,238 ,1);
+  border-radius: 5px;
+  color: rgba(117,117,117 ,1);
+  box-shadow: 5px 10px 20px -20px rgba(85,172,238 ,1)
+}
+
+.nav-items {
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/* unvisited link */
+
+a:link {
+    text-decoration:none;
+    color: black;
+}
+
+/* visited link */
+
+a:visited {
+    text-decoration:none;
+    color:black;
+}
+
+/* mouse over link */
+
+a:hover {
+    color: #b6b6b6;
+
+}
+
+/* selected link */
+
+a:active {
+
+}
