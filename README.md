@@ -1,6 +1,6 @@
 # Plain News Project
 
-<img src="https://media.giphy.com/media/3o7P4F86TAI9Kz7XYk/giphy.gif" width="100%" height="30%">
+<img src="https://media.giphy.com/media/3o7P4F86TAI9Kz7XYk/giphy.gif" width="100%" height="500px">
 
 ## Assignment 
 
