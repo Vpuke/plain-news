@@ -4,6 +4,8 @@ declare(strict_types=1);
 
 // The two different arrays connects via AuthorID (indexed in Authors array)
 
+// added array for 5 different authors.
+
 $authors = [
     [
         'fullName' => 'Viktor Puke',
@@ -27,7 +29,7 @@ $authors = [
     ],
 
 ];
-// Added arrays for 10 news feed posts.
+// Added array for 10 news feed posts.
 
 $articles = [
 

@@ -21,26 +21,23 @@ require __DIR__.'/functions.php';
 
     <?php usort($articles, "sortFunction");?>
 
-    <?php foreach ($articles as $article) :?>
+        <?php foreach ($articles as $article) :?>
 
-    <?php $contentIMG = $article['contentIMG'] ; ?>
+            <?php $contentIMG = $article['contentIMG'] ; ?>
     
-    <img src=<?php echo $contentIMG?> class="phone-images" >
+                <img src=<?php echo $contentIMG?> class="phone-images" >
     
-    <h1><?php echo $article['title'] ?></h1>
+                 <h1><?php echo $article['title'] ?></h1>
 
-    <?php echo $article['content']; ?>
+                  <?php echo $article['content']; ?>
     
-    <h3><?php echo $authors[$article['authorID']]['fullName'] ?></h3>
+                  <h3><?php echo $authors[$article['authorID']]['fullName'] ?></h3>
     
-    <p>
-        <!-- <img src="" alt="" /> FORTSÄTT HÄR  -->
-        <?php echo $article['publishDate'] ?>
-    </p>
+                <p> <?php echo $article['publishDate'] ?></p>
 
-    <p><?php echo $article['likeCounter'] ?></p>
+             <p><?php echo $article['likeCounter'] ?></p>
     
-    <?php endforeach; ?>
+         <?php endforeach; ?>
 </div>
     
 </body>
