@@ -18,7 +18,7 @@ Open index.php from the *public* folder in your local server for example localho
 
 ## Authors
 
-* **Viktor Puke** - [Viktor](vpuke.github.io)
+* **Viktor Puke** - [Viktor](https://vpuke.github.io)
 
 ## Testers
 
