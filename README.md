@@ -1,7 +1,29 @@
-# plain-news
+# Plain News Project
 
-# Assignment 
+## Assignment 
 
-This is one of our first hand in assignments $Yrgo
-We are supposed to create a fiction news-feed with 5 different authors.
-Each author should have 2 articles each. This is a PHP-project.
+This is a school-assignment at YRGO. 
+Using only PHP, HTML and CSS I have built a newsfeed containing 10 articles from 5 different authors.
+
+## Installing
+
+Clone or Fork the repository
+Open index.php from the *public* folder in your local server for example localhost:1337
+
+## Built with
+
+* PHP
+* HTML
+* CSS
+
+## Authors
+
+* **Viktor Puke** - [Viktor](vpuke.github.io)
+
+## Testers
+
+TBA
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for further details.
