@@ -9,27 +9,23 @@ declare(strict_types=1);
 $authors = [
     [
         'fullName' => 'Viktor Puke',
-        'imgURL' => 'authors/viktor.png'
     ],
     [
-        'fullName' => 'Erik Johannesson',
-        'imgURL' => 'authors/erik.png'
+        'fullName' => 'Erik Johannesson',   
     ],
     [
         'fullName' => 'Betsy Alva Soplin',
-        'imgURL' => 'authors/betsy.png'
     ],
     [
-        'fullName' => 'Bernhard Stedt',
-        'imgURL' => 'authors/bernhard.png'
+        'fullName' => 'Bernhard Stedt',  
     ],
     [
         'fullName' => 'Daniel Thorsen',
-        'imgURL' => 'authors/bernhard.png'
     ],
 
 ];
 // Added array for 10 news feed posts.
+// containg title, content, publishDate, likeCounter, ContentIMG, authorID.
 
 $articles = [
 

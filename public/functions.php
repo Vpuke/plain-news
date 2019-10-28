@@ -22,3 +22,4 @@ function sortFunction(array $a, array $b) : int {
 usort($articles,'sortFunction');
 
 ?>
+
