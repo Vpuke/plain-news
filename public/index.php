@@ -31,7 +31,7 @@ require __DIR__.'/functions.php';
 
             <?php $contentIMG = $article['contentIMG'] ; ?>
     
-                <img src=<?php echo $contentIMG?> class="phoneImages" >
+                <img src=<?php echo $contentIMG?> class="phoneImages" alt="images of phones" >
     
                  <h1><?php echo $article['title'] ?></h1>
 
@@ -39,11 +39,11 @@ require __DIR__.'/functions.php';
     
         <div class="authorDateLikeContainer">
 
-                <p><img src="https://cdn2.iconfinder.com/data/icons/education-2-45/48/71-512.png" class="pencilImage">  <?php echo $authors[$article['authorID']]['fullName'] ?></p>
+                <p><img src="https://cdn2.iconfinder.com/data/icons/education-2-45/48/71-512.png" class="pencilImage" alt="pencil icon">  <?php echo $authors[$article['authorID']]['fullName'] ?></p>
     
-                <p><img src="http://cdn.onlinewebfonts.com/svg/img_465817.png" class="calendarImage">  <?php echo $article['publishDate'] ?></p>
+                <p><img src="http://cdn.onlinewebfonts.com/svg/img_465817.png" class="calendarImage" alt="calendar image">  <?php echo $article['publishDate'] ?></p>
 
-                <p><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/A_perfect_SVG_heart.svg" class="likesImage">  <?php echo $article['likeCounter'] ?></p>
+                <p><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/A_perfect_SVG_heart.svg" class="likesImage" alt="like image">  <?php echo $article['likeCounter'] ?></p>
         </div>
 
     </div>

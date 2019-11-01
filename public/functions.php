@@ -5,11 +5,11 @@ declare(strict_types=1);
 /**
  *  Sort function by date.
  * 
- * @param $a array
+ * @param array $a 
  * 
- * @param $b array
+ * @param array $b 
  * 
- * returns date descending int.
+ * @return int
  * 
  */
 
