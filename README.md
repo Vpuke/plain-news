@@ -34,3 +34,23 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Code review
 
 * Michaela Lundborg
+
+* ~index.php - You could add alt-attributes to your img-tags.~
+
+* ~functions.php - DocBlocks should be written like this:~
+    /**    
+    * Description
+    *
+    * @param type $variable
+    * @param type $variable
+    *
+    * @return type
+    */
+		
+* ~Write “@return int” instead of “returns date descending int.” on line 12.~
+
+* ~main.css - You could write margin: 40px 20px; instead of margin: 40px 20px 40px 20px; on line 5.~
+
+* ~main.css - Instead of padding-top:30px; and padding-bottom: 30px; you could use the shorthand padding: 30px 0; on lines 37-38.~
+
+* ~main.css - To make your code look ever better you can make it a little bit more consistent with spacing and indent (e.g. lines 16-24).~
