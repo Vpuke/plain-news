@@ -13,7 +13,7 @@ background-color: #f6f6f6;
     font-size: 48px;
 }
 
-.phone-images {
+.phoneImages {
     width: 200px;
     height: auto;
 }
@@ -31,33 +31,20 @@ background-color: #f6f6f6;
     background-color: white;
 }
 
-.article-content{
+.articleContent{
     border-top: 2px solid #f6f6f6;
     border-bottom: 2px solid #f6f6f6;
     padding-top:30px;
     padding-bottom: 30px;
 } 
 
-.likes-img {
+.likesImage, .calendarImage, .pencilImage {
     height: 17px;
     width:17px;
     margin-right:5px;
 }
 
-.calendar-img {
-    height:17px;
-    width:17px;
-    margin-right: 5px;
-}
-
-.pencil-img{
-    height: 17px;
-    width: 17px;
-    margin-right:5px;
-}
-
-
-.authorDateLike-container{
+.authorDateLikeContainer{
     display:flex;
     align-items: center;
     justify-content: space-evenly;
