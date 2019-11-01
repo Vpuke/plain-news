@@ -33,7 +33,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Code review
 
-* Michaela Lundborg
+* **Michaela Lundborg**
 
 * ~index.php - You could add alt-attributes to your img-tags.~
 
