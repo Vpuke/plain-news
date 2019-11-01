@@ -24,8 +24,8 @@ Open index.php from the *public* folder in your local server for example localho
 
 ## Testers
 
-**Bernhard Stedt**
-**Viktor Sjöblom**
+* **Bernhard Stedt**
+* **Viktor Sjöblom**
 
 ## License
 
