@@ -24,8 +24,13 @@ Open index.php from the *public* folder in your local server for example localho
 
 ## Testers
 
-TBA
+**Bernhard Stedt**
+**Viktor Sjöblom**
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for further details.
+
+## Code review
+
+* Michaela Lundborg
